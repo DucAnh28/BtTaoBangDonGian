@@ -1,0 +1,30 @@
+.baitapcucmanh{
+    margin-left: 300px;
+    margin-right: 50%;
+    /*align-content: center;*/
+    padding: 10px;
+    border:  solid black;
+    width: 500px;
+}
+h1{
+    padding: 15px;
+    margin-left: 50px;
+}
+th{
+    padding: 10px;
+    background-color: yellow;
+    width: 100px;
+    border: solid black;
+}
+td{
+    padding: 10px;
+    border:  solid black;
+    width: 200px;
+}
+table{
+    /*border: 2px solid black;*/
+    border-collapse: collapse;
+}
+.phan2{
+    margin-left: 300px;
+}
